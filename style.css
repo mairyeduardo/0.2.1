@@ -1,7 +1,13 @@
+h1 {
+  text-align: center;
+}
+
 ul {
- list-style: upper-alpha;
+ list-style: none;
+text-align: center
 }
 
 li {
  display: ;
 }
+
